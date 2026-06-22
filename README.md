@@ -1,7 +1,7 @@
 # :technologist: Matheus Casado
 **`Bsc Cybersecurity CySA+ IT Security+ Software Developer`**
 
-My name is Matheus Casado, IT Security and Software Developer based in Cardiff, Wales.
+My name is Matheus Casado, Cybersecurity student in University of West London and Software Developer based in Cardiff, Wales.
 
 <p align="left">
     <a href="https://github.com/matheus1322?tab=repositories&sort=stargazers">
