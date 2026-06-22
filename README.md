@@ -108,8 +108,6 @@ My name is Matheus Casado, IT Security and Software Developer based in Cardiff, 
 />
 </div>
 
-<br clear="left"/> <br/>
-
 <img 
     align="left" 
     alt="Swagger" 
